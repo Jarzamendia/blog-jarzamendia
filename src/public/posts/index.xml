@@ -1,0 +1,36 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on Blog do João Ernesto Arzamendia</title>
+        <link>http://jarzamendia.io/posts/</link>
+        <description>Recent content in Posts on Blog do João Ernesto Arzamendia</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+        <lastBuildDate>Sat, 16 Mar 2019 00:00:00 +0000</lastBuildDate>
+        <atom:link href="http://jarzamendia.io/posts/index.xml" rel="self" type="application/rss+xml" />
+        
+        <item>
+            <title>Meu primeiro post</title>
+            <link>http://jarzamendia.io/posts/2019/03/meu-primeiro-post/</link>
+            <pubDate>Sat, 16 Mar 2019 00:00:00 +0000</pubDate>
+            
+            <guid>http://jarzamendia.io/posts/2019/03/meu-primeiro-post/</guid>
+            <description>Meu primeiro post aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaaaaaaaaaaaa aaaaaaaaaaaaaaa
+aaaaa aaaaa aaaaa aaaaa aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</description>
+            <content type="html"><![CDATA[
+
+<h2 id="meu-primeiro-post">Meu primeiro post</h2>
+
+<p>aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaa
+aaaaaaaaaaaaaaa</p>
+
+<p>aaaaa
+aaaaa
+aaaaa
+aaaaa
+aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa</p>
+]]></content>
+        </item>
+        
+    </channel>
+</rss>

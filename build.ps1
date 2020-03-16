@@ -9,4 +9,4 @@ $date = [Xml.XmlConvert]::ToString((get-date),[Xml.XmlDateTimeSerializationMode]
 docker build --build-arg BUILD_DATE=$date --build-arg MANTAINER="jearzamendia@gmail.com" -t $release .
 
 #push
-docker push $release
+#docker push $release
