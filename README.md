@@ -4,4 +4,6 @@
 
 hello-friend-ng
 
-git submodule add https://github.com/rhazdon/hugo-theme-hello-friend-ng.git themes/hello-friend-ng
+## Docker
+
+https://hub.docker.com/r/jarzamendia/blog-jarzamendia
